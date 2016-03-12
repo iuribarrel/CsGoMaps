@@ -45,7 +45,7 @@
                 android:layout_weight="1"
                 android:background="#424242"
                 android:orientation="horizontal"
-                > 
+                >
 
                 <ImageButton
                     android:id="@+id/dust2"
